@@ -14,5 +14,6 @@ pod 'Alamofire', '~> 4.5'
 pod 'CDYelpFusionKit', '1.5.0'
 pod 'Kingfisher', '~> 4.0'
 #pod 'RealmSwift'
+pod 'paper-onboarding'
 
 end
